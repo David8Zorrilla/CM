@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tarea1</string>
+    <string name="nombre">Nombre:</string>
+    <string name="apellidos">Apellidos:</string>
+    <string name="num_cuenta">Número de cuenta:</string>
+    <string name="correo">Correo electrónico:</string>
+    <string name="genero">Género:</string>
+    <string name="facultad">Facultad:</string>
+    <string name="entrada">Ir a formulario</string>
+    <string name="nombreInstruccion">Nombre</string>
+    <string name="apellidosInstruccion">Apellidos</string>
+    <string name="cuentaInstruccion">Número de cuenta</string>
+    <string name="correoInstruccion">Correo</string>
+    <string name="femenino">Femenino</string>
+    <string name="masculino">Masculino</string>
+    <string name="ingenieria">Ingeniería</string>
+    <string name="ciencias">Ciencias</string>
+    <string name="derecho">Derecho</string>
+    <string name="medicina">Medicina</string>
+    <string name="economia">Economía</string>
+    <string name="guardar">Guardar alumno</string>
+</resources>
